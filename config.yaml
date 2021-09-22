@@ -1,8 +1,8 @@
-baseURL: /
+baseURL: "https://danielvartan.netlify.app"
 languageCode: en-US
 title: Daniel Vartanian
 disqusShortname: ''
-googleAnalytics: ''
+googleAnalytics: 'G-0D6SHE3LGK'
 theme: hugo-sustain
 ignoreFiles:
   - \.Rmd$
